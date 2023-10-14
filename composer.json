@@ -1,0 +1,14 @@
+{
+    "name": "skyify/sdk",
+    "type": "library",
+    "description": "Official SkyIfy SDK API for PHP",
+    "keywords": ["skyify"],
+    "homepage": "https://skyify.pl/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SkyIfy",
+            "email": "contact@skyify.pl"
+        }
+    ]
+}
